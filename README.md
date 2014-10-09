@@ -9,14 +9,14 @@ Yes, Premise is just another CSS framework. The key thing about premise is that 
 <h3>Basic elements</h3>
 These basic classes give you the most common attributes you probably write in CSS. Just by adding these classes to your elements you cut so much redundant CSS.
 <pre>
-	<!-- Basic classes -->
-	<!-- by simply adding these basic classes to any 
+	&lt;!-- Basic classes --&gt;
+	&lt;!-- by simply adding these basic classes to any 
 	element in your HTML you can save yourself a lot
-	of time writing CSS -->
-	<!-- Give an element a display:block -->
-	<div class="block">
-		<span>
+	of time writing CSS --&gt;
+	&lt;!-- Give an element a display:block --&gt;
+	&lt;div class="block"&gt;
+		&lt;span&gt;
 			Hello!
-		</span>
-	</div>
+		&lt;/span&gt;
+	&lt;/div&gt;
 </pre>
