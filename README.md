@@ -1,7 +1,7 @@
 Premise
 =======
 
-Another CSS framework
+Another CSS framework.
 
 Yes, Premise is just another CSS framework. The key thing about premise is that it is meant to avoid repetitive and redundant css by offering you a variety of classes that do all the most common things for you. To keep the framework lightweight we only focus on optimizing code for the most common structure and design elements people want and need. So with Premise you get two things: 1) Build layouts in minutes and easily create common elemnets like mobile navs, or form elemnets. 2) Get non-repetitive, non-redundant lightweight CSS and JS with most common UI/UX lements design and functionality. Integrated with Font Awesome.
 
@@ -91,4 +91,4 @@ different widths --&gt;
 </pre>
 
 <h4>Tip:</h4>
-By adding the class <pre style="display:inline;">same-height</pre> to each column you can easily force the columns to have the same height based on the tallest one.
+By adding the class 'same-height' to each column you can easily force the columns to have the same height based on the tallest one.
