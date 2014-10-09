@@ -91,4 +91,4 @@ different widths --&gt;
 </pre>
 
 <h4>Tip:</h4>
-By adding the class <span><pre>same-height</pre></span> to each column you can easily force the columns to have the same height based on the tallest one.
+By adding the class <pre style="display:inline;">same-height</pre> to each column you can easily force the columns to have the same height based on the tallest one.
